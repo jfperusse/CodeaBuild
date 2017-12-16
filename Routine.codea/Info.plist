@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>aadp_Common_BaseMenu</string>
+		<string>aadp_Common_Button</string>
+		<string>aadp_Common_Helpers</string>
+		<string>aadp_Common_Localization</string>
+		<string>aadp_Common_ExportDataHelpers</string>
+		<string>aadp_Common_MusicAddon</string>
+		<string>aadp_Common_NativeAddon</string>
+		<string>aadp_Common_SwipeHelper</string>
+		<string>aadp_Common_ExportData</string>
+		<string>aadp_Common_PerfTimer</string>
+		<string>aadp_Common_base64</string>
+		<string>aadp_Common_json</string>
+		<string>Main</string>
+		<string>Analytics</string>
+		<string>LocalizedStrings</string>
+		<string>Clock</string>
+		<string>State</string>
+		<string>MainState</string>
+		<string>ProfileState</string>
+		<string>ModifyRoutineState</string>
+		<string>SpritesList</string>
+		<string>SpriteSelection</string>
+		<string>CreditsState</string>
+	</array>
+	<key>Dependencies</key>
+	<array>
+		<string>Common</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+	<key>Icon</key>
+	<string>Icon.png</string>
+</dict>
+</plist>
